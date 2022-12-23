@@ -1,0 +1,37 @@
+
+nav .container{
+    border-bottom: #e8491d 3px solid;
+}
+section a{
+    text-decoration: none;
+    color: white;
+}
+.jumbotron{
+    padding-top: 6rem;
+    color: white;
+    background-color: #373332;
+}
+.jumbotron img {
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    background:#e8491d;
+    overflow:hidden;
+    background-position: center;
+    background-size: auto;
+}
+#galery{
+    color: white;
+    background-color: #373332;
+}
+footer{
+    background-color: #373332;
+    color: white;
+    text-align: center;
+}
+footer a{
+    text-decoration: dashed;
+}
+section{
+    padding-top: 5rem;
+}
